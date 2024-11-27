@@ -55,3 +55,5 @@ PATH PARAMETERS
 we can pass the params to get to the specific page according to the user variable
 
 QUERY STRING
+
+they are used to send the search query
