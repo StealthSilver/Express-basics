@@ -1,0 +1,26 @@
+Library
+
+it is a collection of pre-written code that can be used to perform specific tasks
+e.g. axios
+
+Framework
+
+it is a set of pre-written code that provides a structure for developing software applications
+e.g. express
+
+Express Framework
+
+it is a node js framework that helps us to make the server side of the web applications
+
+uses :
+1. listen requests
+2. parsing requests
+3. matching responses with routes
+4. sending suitable response
+
+
+01.js
+
+npm i express
+
+port -> they are the logical endpoints of a network connection that is used to exchange info between a web server and a web client
